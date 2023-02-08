@@ -8,3 +8,6 @@ Motor driver IC L298D: This driver is used to control and drive DC motors.
 Lithium ion battery: It gives power supply to robot (approx: 7.5V).
 
 The code is given in this repository.
+
+The video link of the Obstacle Avoidance Robot is given below:
+https://www.instagram.com/reel/CYnqidXrixv/?igshid=YmMyMTA2M2Y=
